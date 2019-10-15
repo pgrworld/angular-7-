@@ -1,1 +1,10 @@
-// 
+// if we want to create a component
+1. ng g component component_name
+EX: ng g component new-cmp
+
+// if we want to change the port NO
+EX: ng serve --port 4300
+
+
+
+
